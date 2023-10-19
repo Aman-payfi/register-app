@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register Version 1.0.3</h1>
-    <h1>Created a CI/CD Pipeline. welcome to DevOps World.</h1>
+    <h1>New user Register Version 1.0.4</h1>
+    <h1>Created a CI/CD Pipeline. Welcome to DevOps World.</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -34,6 +34,7 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Created by Payfi-2023 </h1>
+   <h1> Created by Aman Gupta-2023 </h1>
+   <h1> Thanks for Watching.</h1>
    
 </form>
